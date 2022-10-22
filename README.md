@@ -1,0 +1,2 @@
+# seriesPromiseWithReject
+Created with CodeSandbox
